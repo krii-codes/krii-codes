@@ -33,12 +33,6 @@
 
 ---
 
-## 🎶 Hobbies & Interests  
-🎤 Singing
-
-💡 Experimenting with AI & coding for fun  
-
----
 
 ## 📈 Tech I'm Exploring Next  
 🔹 Machine Learning & AI  
