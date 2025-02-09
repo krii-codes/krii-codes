@@ -43,7 +43,7 @@
 
 <h3 align="center" style="color:#ff5733;">🚀 Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/krishna-jain" target="blank">
+<a href="https://www.linkedin.com/in/kricodes/" target="blank">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
