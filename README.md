@@ -3,7 +3,7 @@
 <h4 align="center">"Building AI that matters."</h4>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kricodes-git&theme=dracula&no-frame=true&column=4&row=1&margin-w=15&no-bg=true&title=Commit,Repositories,Followers,PullRequest" alt="kricodes-git" />
+  <img src="https://github-profile-trophy.vercel.app/?username=krii-codes&theme=dracula&no-frame=true&column=4&row=1&margin-w=15&no-bg=true&title=Commit,Repositories,Followers,PullRequest" alt="kricodes-git" />
 </p>
 
 ---
