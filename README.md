@@ -69,8 +69,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krii-codes&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=krii-codes&theme=radical" alt="GitHub Streak" />
 </p>
+
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krii-codes&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
