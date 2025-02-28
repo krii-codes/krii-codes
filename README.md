@@ -61,7 +61,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
 </p>
 
----
+[![Kri's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=krii-codes&bg_color=2c2626&color=ff00ee&line=cd1bda&point=272527&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">📊 GitHub Stats:</h3>
 <p align="left">
